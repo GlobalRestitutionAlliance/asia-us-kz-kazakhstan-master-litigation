@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: kazakhstanan-restitution-roadmap-and-qsf-trust-execution
-  name: Kazakhstanan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/kazakhstanan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_kz_001
+    name: Kazakhstan Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_002
+    name: Kazakhstan Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_003
+    name: Kazakhstan Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_004
+    name: Kazakhstan Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_005
+    name: Kazakhstan Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_006
+    name: Kazakhstan Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_007
+    name: Kazakhstan Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_008
+    name: Kazakhstan Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_009
+    name: Kazakhstan Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_010
+    name: Kazakhstan Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_011
+    name: Kazakhstan Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_012
+    name: Kazakhstan Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_013
+    name: Kazakhstan Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_014
+    name: Kazakhstan Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_015
+    name: Kazakhstan Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_016
+    name: Kazakhstan Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_017
+    name: Kazakhstan Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_018
+    name: Kazakhstan Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_019
+    name: Kazakhstan Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_020
+    name: Kazakhstan Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_021
+    name: Kazakhstan Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_022
+    name: Kazakhstan Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_023
+    name: Kazakhstan Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_024
+    name: Kazakhstan Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_025
+    name: Kazakhstan Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_026
+    name: Kazakhstan Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_027
+    name: Kazakhstan Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_028
+    name: Kazakhstan Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_029
+    name: Kazakhstan Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_030
+    name: Kazakhstan Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_031
+    name: Kazakhstan Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_032
+    name: Kazakhstan Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_033
+    name: Kazakhstan Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_034
+    name: Kazakhstan Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_035
+    name: Kazakhstan Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_036
+    name: Kazakhstan Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_037
+    name: Kazakhstan Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_038
+    name: Kazakhstan Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_039
+    name: Kazakhstan Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_040
+    name: Kazakhstan Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_041
+    name: Kazakhstan Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_042
+    name: Kazakhstan Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_043
+    name: Kazakhstan Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_044
+    name: Kazakhstan Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_045
+    name: Kazakhstan Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_046
+    name: Kazakhstan Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_047
+    name: Kazakhstan Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_048
+    name: Kazakhstan Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_049
+    name: Kazakhstan Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_050
+    name: Kazakhstan Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_051
+    name: Kazakhstan Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_052
+    name: Kazakhstan Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_053
+    name: Kazakhstan Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_054
+    name: Kazakhstan Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_055
+    name: Kazakhstan Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_056
+    name: Kazakhstan Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_057
+    name: Kazakhstan Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_058
+    name: Kazakhstan Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_059
+    name: Kazakhstan Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_060
+    name: Kazakhstan Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_061
+    name: Kazakhstan Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_062
+    name: Kazakhstan Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_063
+    name: Kazakhstan Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_064
+    name: Kazakhstan Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_065
+    name: Kazakhstan Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_066
+    name: Kazakhstan Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_067
+    name: Kazakhstan Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_068
+    name: Kazakhstan Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_069
+    name: Kazakhstan Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_070
+    name: Kazakhstan Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_071
+    name: Kazakhstan Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_072
+    name: Kazakhstan Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_073
+    name: Kazakhstan Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_074
+    name: Kazakhstan Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_075
+    name: Kazakhstan Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_076
+    name: Kazakhstan Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_077
+    name: Kazakhstan Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_078
+    name: Kazakhstan Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_079
+    name: Kazakhstan Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_080
+    name: Kazakhstan Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_081
+    name: Kazakhstan Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_082
+    name: Kazakhstan Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_083
+    name: Kazakhstan Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_084
+    name: Kazakhstan Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_085
+    name: Kazakhstan Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_086
+    name: Kazakhstan Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_087
+    name: Kazakhstan Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_088
+    name: Kazakhstan Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_089
+    name: Kazakhstan Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_090
+    name: Kazakhstan Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_091
+    name: Kazakhstan Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_092
+    name: Kazakhstan Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_093
+    name: Kazakhstan Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_094
+    name: Kazakhstan Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_095
+    name: Kazakhstan Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_096
+    name: Kazakhstan Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_097
+    name: Kazakhstan Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_098
+    name: Kazakhstan Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_099
+    name: Kazakhstan Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_100
+    name: Kazakhstan Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_101
+    name: Kazakhstan Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_102
+    name: Kazakhstan Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_103
+    name: Kazakhstan Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_104
+    name: Kazakhstan Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_105
+    name: Kazakhstan Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_106
+    name: Kazakhstan Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_107
+    name: Kazakhstan Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_108
+    name: Kazakhstan Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_109
+    name: Kazakhstan Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_110
+    name: Kazakhstan Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_111
+    name: Kazakhstan Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_112
+    name: Kazakhstan Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_113
+    name: Kazakhstan Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_114
+    name: Kazakhstan Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_115
+    name: Kazakhstan Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_116
+    name: Kazakhstan Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_117
+    name: Kazakhstan Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_118
+    name: Kazakhstan Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_119
+    name: Kazakhstan Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_120
+    name: Kazakhstan Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_121
+    name: Kazakhstan Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_122
+    name: Kazakhstan Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_123
+    name: Kazakhstan Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_124
+    name: Kazakhstan Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_125
+    name: Kazakhstan Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_126
+    name: Kazakhstan Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_127
+    name: Kazakhstan Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_128
+    name: Kazakhstan Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_129
+    name: Kazakhstan Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_130
+    name: Kazakhstan Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_131
+    name: Kazakhstan Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_132
+    name: Kazakhstan Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_133
+    name: Kazakhstan Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_134
+    name: Kazakhstan Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_135
+    name: Kazakhstan Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_136
+    name: Kazakhstan Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_137
+    name: Kazakhstan Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_138
+    name: Kazakhstan Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_139
+    name: Kazakhstan Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_140
+    name: Kazakhstan Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_141
+    name: Kazakhstan Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_142
+    name: Kazakhstan Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_143
+    name: Kazakhstan Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_144
+    name: Kazakhstan Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_145
+    name: Kazakhstan Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_146
+    name: Kazakhstan Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_147
+    name: Kazakhstan Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_148
+    name: Kazakhstan Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_149
+    name: Kazakhstan Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_150
+    name: Kazakhstan Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_151
+    name: Kazakhstan Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_152
+    name: Kazakhstan Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_153
+    name: Kazakhstan Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_154
+    name: Kazakhstan Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_155
+    name: Kazakhstan Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_156
+    name: Kazakhstan Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_157
+    name: Kazakhstan Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_158
+    name: Kazakhstan Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_159
+    name: Kazakhstan Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_160
+    name: Kazakhstan Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_161
+    name: Kazakhstan Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_162
+    name: Kazakhstan Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_163
+    name: Kazakhstan Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_164
+    name: Kazakhstan Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_165
+    name: Kazakhstan Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_166
+    name: Kazakhstan Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_167
+    name: Kazakhstan Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_168
+    name: Kazakhstan Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_169
+    name: Kazakhstan Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_170
+    name: Kazakhstan Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_171
+    name: Kazakhstan Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_172
+    name: Kazakhstan Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_173
+    name: Kazakhstan Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_174
+    name: Kazakhstan Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_175
+    name: Kazakhstan Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_176
+    name: Kazakhstan Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_177
+    name: Kazakhstan Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_178
+    name: Kazakhstan Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_179
+    name: Kazakhstan Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_180
+    name: Kazakhstan Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_181
+    name: Kazakhstan Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_182
+    name: Kazakhstan Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_183
+    name: Kazakhstan Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_184
+    name: Kazakhstan Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_185
+    name: Kazakhstan Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_186
+    name: Kazakhstan Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_187
+    name: Kazakhstan Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_188
+    name: Kazakhstan Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_189
+    name: Kazakhstan Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_190
+    name: Kazakhstan Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_191
+    name: Kazakhstan Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_192
+    name: Kazakhstan Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_193
+    name: Kazakhstan Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_194
+    name: Kazakhstan Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_195
+    name: Kazakhstan Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_196
+    name: Kazakhstan Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_197
+    name: Kazakhstan Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_198
+    name: Kazakhstan Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_199
+    name: Kazakhstan Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_200
+    name: Kazakhstan Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_201
+    name: Kazakhstan Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_202
+    name: Kazakhstan Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_203
+    name: Kazakhstan Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_204
+    name: Kazakhstan Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_205
+    name: Kazakhstan Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_206
+    name: Kazakhstan Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_207
+    name: Kazakhstan Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_208
+    name: Kazakhstan Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_209
+    name: Kazakhstan Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_210
+    name: Kazakhstan Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_211
+    name: Kazakhstan Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_212
+    name: Kazakhstan Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_213
+    name: Kazakhstan Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_214
+    name: Kazakhstan Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_215
+    name: Kazakhstan Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_216
+    name: Kazakhstan Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_217
+    name: Kazakhstan Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_218
+    name: Kazakhstan Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_219
+    name: Kazakhstan Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_220
+    name: Kazakhstan Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_221
+    name: Kazakhstan Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_222
+    name: Kazakhstan Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_223
+    name: Kazakhstan Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_224
+    name: Kazakhstan Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_225
+    name: Kazakhstan Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_226
+    name: Kazakhstan Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_227
+    name: Kazakhstan Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_228
+    name: Kazakhstan Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_229
+    name: Kazakhstan Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_230
+    name: Kazakhstan Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_231
+    name: Kazakhstan Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_232
+    name: Kazakhstan Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_233
+    name: Kazakhstan Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_234
+    name: Kazakhstan Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_235
+    name: Kazakhstan Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_236
+    name: Kazakhstan Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_237
+    name: Kazakhstan Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_238
+    name: Kazakhstan Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_239
+    name: Kazakhstan Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_240
+    name: Kazakhstan Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_241
+    name: Kazakhstan Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_242
+    name: Kazakhstan Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_243
+    name: Kazakhstan Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_244
+    name: Kazakhstan Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_245
+    name: Kazakhstan Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_246
+    name: Kazakhstan Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_247
+    name: Kazakhstan Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_248
+    name: Kazakhstan Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_249
+    name: Kazakhstan Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_250
+    name: Kazakhstan Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_251
+    name: Kazakhstan Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kz_252
+    name: Kazakhstan Skill 252
+    status: ACTIVE_SCAFFOLD
